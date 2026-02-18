@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Blades.unity
+    guid: 14bfa8eef66799946ab1e9bfd603aed6
+  - enabled: 1
+    path: Assets/Scenes/Blades.2.unity
+    guid: a0224ff1eedda744a8499cb802678dd9
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0
